@@ -28,7 +28,6 @@
 
 ### OneTrust
 
-![](shots/onetrust-gdpr.png)
 
 | Country       | RoPA | 
 |---------------| ---- |

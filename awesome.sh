@@ -70,6 +70,7 @@ function Script:main() {
       #TIP: use «$script_prefix deploy» to ...
       #TIP:> $script_prefix deploy
       git pull ## to get the latest screenshots
+      markdown-toc -i screenshots.md
       markdown-toc -i README.md
       setver auto
       ;;
