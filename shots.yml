@@ -5,3 +5,6 @@
   output: shots/onetrust-gdpr.png
   height: 800
   wait: 5000
+- url: https://securiti.ai/solutions/gdpr/
+  output: shots/securiti-gdpr.png
+  height: 800

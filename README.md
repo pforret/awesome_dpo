@@ -4,11 +4,13 @@
 
 - [Cookie Consent Tools](#cookie-consent-tools)
   * [OneTrust CookieBot](#onetrust-cookiebot)
-- [Register of Processing Activities (RoPA) tools](#register-of-processing-activities-ropa-tools)
+- [Records of Processing Activities (RoPA) tools](#records-of-processing-activities-ropa-tools)
   * [Responsum](#responsum)
   * [OneTrust](#onetrust)
+  * [Securiti.ai](#securitiai)
 - [Register of Data Breaches (RoDB) tools](#register-of-data-breaches-rodb-tools)
-- [Data Subject Requests Management tools](#data-subject-requests-management-tools)
+- [Data Subject Rights (DSR) Request tools](#data-subject-rights-dsr-request-tools)
+- [Privacy Impact Assessment (PIA) tools](#privacy-impact-assessment-pia-tools)
 
 <!-- tocstop -->
 
@@ -17,13 +19,15 @@
 ### OneTrust CookieBot
 * https://www.onetrust.com/products/cookie-consent/
 
-## Register of Processing Activities (RoPA) tools
+## Records of Processing Activities (RoPA) tools
 
 ### Responsum
 
-| Country | RoPA | 
-| ------- | ---- |
-| Belgium | [x]  |
+* RoPA: [Records of Processing Activities](https://responsum.eu/privacy/ropa-records-of-processing-activities/)
+* DPIA: [Data Protection Impact Assessment](https://responsum.eu/privacy/dpia-data-protection-impact-assessment/)
+* DSR: [Data Subject Requests](https://responsum.eu/privacy/data-subject-requests/)
+* RoSB: [Incident & Breach Management](https://responsum.eu/security/incident-breach-management/)
+* Consent: [Cookie management](https://responsum.eu/privacy/cookie-management/)
 
 
 ### OneTrust
@@ -33,6 +37,13 @@
 |---------------| ---- |
 | USA (Atlanta) | [x]  |
 
+### Securiti.ai
+
+> securiti.ai enables organizations to meet EU GDPR compliance requirements through AI-driven PI data discovery, DSR automation, documented accountability, enhanced visibility into data processing activities and AI-driven process automation.
+
+
 ## Register of Data Breaches (RoDB) tools
 
-## Data Subject Requests Management tools
+## Data Subject Rights (DSR) Request tools
+
+## Privacy Impact Assessment (PIA) tools
