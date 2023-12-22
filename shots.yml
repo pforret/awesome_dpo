@@ -8,3 +8,9 @@
 - url: https://securiti.ai/solutions/gdpr/
   output: shots/securiti-gdpr.png
   height: 800
+- url: https://www.otris.com/products/otris-privacy-suite/
+  output: shots/otris-privacy.png
+  height: 800
+- url: https://www.osano.com/solutions/gdpr-compliance-software
+  output: shots/osano-gdpr.png
+  height: 800
