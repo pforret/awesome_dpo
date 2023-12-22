@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Cookie Consent Tools](#cookie-consent-tools)
+  * [OneTrust CookieBot](#onetrust-cookiebot)
 - [Register of Processing Activities (RoPA) tools](#register-of-processing-activities-ropa-tools)
   * [Responsum](#responsum)
   * [OneTrust](#onetrust)
@@ -12,6 +13,9 @@
 <!-- tocstop -->
 
 ## Cookie Consent Tools
+
+### OneTrust CookieBot
+* https://www.onetrust.com/products/cookie-consent/
 
 ## Register of Processing Activities (RoPA) tools
 
@@ -24,9 +28,11 @@
 
 ### OneTrust
 
-| Country | RoPA | 
-| ------- | ---- |
-| Belgium | [x]  |
+![](shots/onetrust-gdpr.png)
+
+| Country       | RoPA | 
+|---------------| ---- |
+| USA (Atlanta) | [x]  |
 
 ## Register of Data Breaches (RoDB) tools
 
