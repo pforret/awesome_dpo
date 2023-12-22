@@ -1,6 +1,6 @@
 - url: https://responsum.eu/privacy/
-  output: responsum.eu.png
+  output: shots/responsum-privacy.png
   height: 800
 - url: https://www.onetrust.com/solutions/gdpr-compliance/
-  output: onetrust.com.png
+  output: shots/onetrust-gdpr.png
   height: 800
