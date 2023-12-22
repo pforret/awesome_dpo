@@ -8,7 +8,7 @@
   * [Osano](#osano)
   * [Otris](#otris)
   * [Securiti.ai](#securitiai)
-- [Cookie Consent Tools](#cookie-consent-tools)
+- [Webmaster GDPR Tools](#webmaster-gdpr-tools)
   * [OneTrust CookieBot](#onetrust-cookiebot)
 
 <!-- tocstop -->
@@ -105,7 +105,7 @@
 
 > securiti.ai enables organizations to meet EU GDPR compliance requirements through AI-driven PI data discovery, DSR automation, documented accountability, enhanced visibility into data processing activities and AI-driven process automation.
 
-## Cookie Consent Tools
+## Webmaster GDPR Tools
 
 ### OneTrust CookieBot
 * https://www.onetrust.com/products/cookie-consent/
