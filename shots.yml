@@ -4,4 +4,4 @@
 - url: https://www.onetrust.com/solutions/gdpr-compliance/
   output: shots/onetrust-gdpr.png
   height: 800
-  wait: 3000
+  wait: 5000
