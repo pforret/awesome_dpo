@@ -2,33 +2,25 @@
 
 <!-- toc -->
 
-- [Cookie Consent Tools](#cookie-consent-tools)
-  * [OneTrust CookieBot](#onetrust-cookiebot)
-- [Records of Processing Activities (RoPA) tools](#records-of-processing-activities-ropa-tools)
+- [DPO Management tools](#dpo-management-tools)
   * [Responsum](#responsum)
   * [OneTrust](#onetrust)
   * [Osano](#osano)
   * [Otris](#otris)
   * [Securiti.ai](#securitiai)
-- [Register of Data Breaches (RoDB) tools](#register-of-data-breaches-rodb-tools)
-- [Data Subject Rights (DSR) Request tools](#data-subject-rights-dsr-request-tools)
-- [Privacy Impact Assessment (PIA) tools](#privacy-impact-assessment-pia-tools)
+- [Cookie Consent Tools](#cookie-consent-tools)
+  * [OneTrust CookieBot](#onetrust-cookiebot)
 
 <!-- tocstop -->
 
-## Cookie Consent Tools
-
-### OneTrust CookieBot
-* https://www.onetrust.com/products/cookie-consent/
-
-## Records of Processing Activities (RoPA) tools
+## DPO Management tools
 
 ### Responsum
 
 |         |                                       |
 |---------|---------------------------------------|
-| Company | RESPONSUM                             |
-| Product | RESPONSUM                             |
+| Company | Responsum                             |
+| Product | Responsum                             |
 | Country | Belgium                               |
 | Website | [responsum.eu](https://responsum.eu/) |
 | RoPA    | ✅ Records of Processing Activities    |
@@ -113,8 +105,8 @@
 
 > securiti.ai enables organizations to meet EU GDPR compliance requirements through AI-driven PI data discovery, DSR automation, documented accountability, enhanced visibility into data processing activities and AI-driven process automation.
 
-## Register of Data Breaches (RoDB) tools
+## Cookie Consent Tools
 
-## Data Subject Rights (DSR) Request tools
+### OneTrust CookieBot
+* https://www.onetrust.com/products/cookie-consent/
 
-## Privacy Impact Assessment (PIA) tools
